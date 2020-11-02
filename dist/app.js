@@ -83707,8 +83707,8 @@ var drawEllipse = function drawEllipse() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /mnt/c/projects/www/playground/p5js/baadnews/src/app.js */"./src/app.js");
-module.exports = __webpack_require__(/*! /mnt/c/projects/www/playground/p5js/baadnews/src/app.scss */"./src/app.scss");
+__webpack_require__(/*! /home/jonas/www/playground/genart/p5js-laravel-mix/src/app.js */"./src/app.js");
+module.exports = __webpack_require__(/*! /home/jonas/www/playground/genart/p5js-laravel-mix/src/app.scss */"./src/app.scss");
 
 
 /***/ })
